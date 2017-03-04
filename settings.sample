@@ -1,0 +1,4 @@
+TOKEN=""  
+DOMAIN="example.com"
+HOST=test # test.example.com
+RECORD_ID=1234 # Fetch from JSON
